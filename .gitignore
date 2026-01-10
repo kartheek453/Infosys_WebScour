@@ -1,0 +1,13 @@
+# RabbitMQ / Erlang
+rabbitmq_server-*
+otp_win64_*.exe
+
+# Generated files
+visited.txt
+pages/
+idf.json
+inverted_index.json
+
+# Python
+__pycache__/
+*.pyc
